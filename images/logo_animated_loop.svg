@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 620 465" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     onload="initialize(evt)"><!--SVG SMIL Animation Export (c) 2015 Animatron LLC--><!--Version 1.0 by squared9-->
+    <defs>
+        <mask id="canvasMask">
+            <rect x="0" y="0" width="620px" height="465px" fill="#FFFFFF" stroke="none"/>
+        </mask>
+        <mask id="idb562c352a6b09f22aef0aaffmk" maskUnits="userSpaceOnUse" x="-50%" y="-50%" width="200%" height="200%">
+            <path id="idb562c352a6b09f22aef0aaff"
+                  d="M 0,0 L 0,465 L 61.5,403.5 L 533,403.5 L 533,273 L 620,273 L 620,125 L 437,125 L 437,0 L 0,0 L 0,0 M 0,0 Z"
+                  style="fill: #FFFFFF; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="5.0 12.0" to="5.0 12.0"
+                                  calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-310.0 -232.5" to="-310.0 -232.5"
+                                  calcMode="discrete"/>
+            </path>
+        </mask>
+    </defs>
+    <rect fill="rgba(255,255,255,0.0)" stroke="none" x="0" y="0" width="620px" height="465px"/>
+    <g id="idf76bcc0028cd68f91fbefb02" mask="url(#canvasMask)">
+        <g id="id6305312028d5f9e8ee428658" visibility="hidden">
+            <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+            <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                              dur="4s" repeatCount="1" fill="none" from="304.0 220.0" to="304.0 220.0"
+                              calcMode="discrete"/>
+            <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end" dur="4s"
+                              repeatCount="1" fill="none" from="-0.0 -0.5" to="-0.0 -0.5" calcMode="discrete"/>
+            <path id="iddcc69495d493b3d60723228f"
+                  d="M 0,0 L 0,465 L 61.5,403.5 L 533,403.5 L 533,273 L 620,273 L 620,125 L 437,125 L 437,0 L 0,0 L 0,0 M 0,0 Z"
+                  style="fill: #bdbdbd; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                  dur="0.6s" repeatCount="1" fill="none" from="5.5 11.5" to="5.25 11.5"/>
+                <animateTransform attributeName="transform" type="translate" additive="replace"
+                                  begin="0.6s; loop.end + 0.6s" dur="3.4s" repeatCount="1" fill="none" from="5.25 11.5"
+                                  to="5.5 11.5"/>
+                <animate attributeType="CSS" attributeName="fill" begin="0s; loop.end" dur="0.6s" repeatCount="1"
+                         fill="none" from="#bdbdbd" to="#bdbdbd" calcMode="discrete"/>
+                <animate attributeType="CSS" attributeName="fill" begin="0.6s; loop.end + 0.6s" dur="3.4s"
+                         repeatCount="1" fill="none" from="#bdbdbd" to="#bdbdbd" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                  dur="0.6s" repeatCount="1" fill="none" from="-310.0 -232.5" to="-310.0 -232.5"
+                                  calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="translate" additive="sum"
+                                  begin="0.6s; loop.end + 0.6s" dur="3.4s" repeatCount="1" fill="none"
+                                  from="-310.0 -232.5" to="-310.0 -232.5" calcMode="discrete"/>
+            </path>
+            <g id="id58c8fe3773f79d72f30370ecmg" style="mask: url(#idb562c352a6b09f22aef0aaffmk)">
+                <path id="id58c8fe3773f79d72f30370ec" d="M 0,-556 L 712,-556 L 712,0 L 0,0 L 0,-556 M 0,-556 Z"
+                      style="fill: #02bee7; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="10.0 528.0" to="20.0 8.0"/>
+                    <animateTransform attributeName="transform" type="scale" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="1.0 0.9964028776978417"
+                                      to="1.0 0.9964028776978417" calcMode="discrete"/>
+                    <animate attributeType="CSS" attributeName="fill" begin="0s; loop.end" dur="4s" repeatCount="1"
+                             fill="none" from="#02bee7" to="#02bee7" calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-356.0 278.0" to="-356.0 278.0"
+                                      calcMode="discrete"/>
+                </path>
+            </g>
+            <g id="idad5865231e92525e3f8766c9" visibility="hidden">
+                <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-233.889 -196.092" to="-233.889 -196.092"
+                                  calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="rotate" additive="sum" begin="0s; loop.end" dur="4s"
+                                  repeatCount="1" fill="none" from="0.0 0.0 0.0" to="0.0 0.0 0.0" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="scale" additive="sum" begin="0s; loop.end" dur="4s"
+                                  repeatCount="1" fill="none" from="0.9763486539127507 0.9763486539127507"
+                                  to="0.9763486539127507 0.9763486539127507" calcMode="discrete"/>
+                <animate attributeType="CSS" attributeName="opacity" begin="0s; loop.end" dur="4s" repeatCount="1"
+                         fill="none" from="0.6" to="0.6" calcMode="discrete"/>
+                <animate attributeType="CSS" attributeName="fill" begin="0s; loop.end" dur="4s" repeatCount="1"
+                         fill="none" from="#ffffff" to="#ffffff" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-45.3243 -26.5" to="-45.3243 -26.5"
+                                  calcMode="discrete"/>
+                <path id="id1391a519bf2aaac7fba01b8f"
+                      d="M 0.406,-96.39 L 22.281,-96.39 L 34.967,-59.125 L 35.232,-59.125 L 48.732,-96.39 L 69.793,-96.39 L 44.809,-37.937 L 44.809,0 L 25.372,0 L 25.372,-37.937 L 0.404,-96.39 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="315.0 126.0" to="315.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id5e7dfc81c59aef4bb1816105"
+                      d="M 26.187,-82.078 L 26.187,-54.267 L 34.295,-54.267 C 43.606,-54.267 48.871,-58.312 48.871,-68.716 C 48.871,-77.622 44.137,-82.075 35.372,-82.075 L 26.186,-82.075 M 6.749,0.003 L 6.749,-96.387 L 42.654,-96.387 C 58.59,-96.387 68.307,-88.012 68.307,-71.544 C 68.307,-58.716 63.182,-50.076 52.246,-47.796 L 52.246,-47.516 C 65.463,-45.766 67.494,-38.471 67.759,-18.096 C 67.899,-7.971 68.43,-2.706 72.086,-0.816 L 72.086,-0.004 L 51.025,-0.004 C 49.135,-2.707 48.73,-6.347 48.59,-10.127 L 48.06,-28.627 C 47.795,-36.188 44.42,-40.766 36.578,-40.766 L 26.188,-40.766 L 26.188,-0.001 L 6.751,-0.001 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="240.0 126.0" to="240.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id69fc65e6af321c08b3de1b6f"
+                      d="M 4.718,-48.187 C 4.718,-77.483 8.374,-98.278 37.53,-98.278 C 66.686,-98.278 70.326,-77.483 70.326,-48.187 C 70.326,-18.906 66.686,1.89 37.53,1.89 C 8.374,1.89 4.718,-18.906 4.718,-48.187 L 4.718,-48.187 M 24.17,-48.187 C 24.17,-22.281 26.06,-12.422 37.527,-12.422 C 48.995,-12.422 50.885,-22.281 50.885,-48.187 C 50.885,-73.983 48.995,-83.966 37.527,-83.966 C 26.059,-83.966 24.169,-73.983 24.169,-48.187 L 24.169,-48.187 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="165.0 126.0" to="165.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id8531f54f29c7e40ad693bfb5"
+                      d="M 7.156,0 L 7.156,-96.39 L 36.046,-96.39 L 49.811,-28.344 L 50.076,-28.344 L 63.981,-96.39 L 92.746,-96.39 L 92.746,0 L 74.918,0 L 74.918,-76.953 L 74.653,-76.953 L 57.513,0 L 42.388,0 L 25.248,-76.953 L 24.968,-76.953 L 24.968,0 L 7.156,0 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="65.0 126.0" to="65.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id566f014344d00eaf5fa0744d"
+                      d="M 6.75,-96.39 L 60.609,-96.39 L 60.609,-80.455 L 26.188,-80.455 L 26.188,-57.784 L 58.594,-57.784 L 58.594,-41.848 L 26.188,-41.848 L 26.188,-15.942 L 61.969,-15.942 L 61.969,-0.005 L 6.751,-0.005 L 6.751,-96.395 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="0.0 126.0" to="0.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+            </g>
+            <g id="id6d37eca949b3e0ae0f7c770a" visibility="hidden">
+                <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-219.902 55.007" to="-219.902 55.007"
+                                  calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="rotate" additive="sum" begin="0s; loop.end" dur="4s"
+                                  repeatCount="1" fill="none" from="0.0 0.0 0.0" to="0.0 0.0 0.0" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="scale" additive="sum" begin="0s; loop.end" dur="4s"
+                                  repeatCount="1" fill="none" from="0.9763486539127507 0.9763486539127507"
+                                  to="0.9763486539127507 0.9763486539127507" calcMode="discrete"/>
+                <animate attributeType="CSS" attributeName="opacity" begin="0s; loop.end" dur="4s" repeatCount="1"
+                         fill="none" from="0.6" to="0.6" calcMode="discrete"/>
+                <animate attributeType="CSS" attributeName="fill" begin="0s; loop.end" dur="4s" repeatCount="1"
+                         fill="none" from="#ffffff" to="#ffffff" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-57.3616 -26.5" to="-57.3616 -26.5"
+                                  calcMode="discrete"/>
+                <path id="id773f267b454df2d538d65945"
+                      d="M 1.625,-96.39 L 63.187,-96.39 L 63.187,-80.455 L 42.126,-80.455 L 42.126,-0.002 L 22.689,-0.002 L 22.689,-80.455 L 1.627,-80.455 L 1.627,-96.391 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="419.0 126.0" to="419.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="idcf8bb725628f1d774740c5bf"
+                      d="M 67.359,-63.859 L 47.923,-63.859 C 47.923,-77.888 45.095,-83.966 36.315,-83.966 C 26.456,-83.966 24.176,-74.108 24.176,-46.843 C 24.176,-17.687 28.221,-12.422 36.58,-12.422 C 43.61,-12.422 48.735,-16.062 48.735,-36.858 L 68.171,-36.858 C 68.171,-16.062 63.046,1.891 37.531,1.891 C 8.375,1.891 4.719,-18.905 4.719,-48.186 C 4.719,-77.481 8.375,-98.276 37.531,-98.276 C 65.341,-98.276 67.356,-77.886 67.356,-63.856 L 67.356,-63.856 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="347.0 126.0" to="347.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="iddc1395fe32d95499c2c4945c"
+                      d="M 6.75,-96.39 L 60.609,-96.39 L 60.609,-80.455 L 26.188,-80.455 L 26.188,-57.784 L 58.594,-57.784 L 58.594,-41.848 L 26.188,-41.848 L 26.188,-15.942 L 61.969,-15.942 L 61.969,-0.005 L 6.751,-0.005 L 6.751,-96.395 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="282.0 126.0" to="282.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id4a6a51ecc5fcc41bbf4d373f"
+                      d="M 37.125,-96.39 L 56.561,-96.39 L 56.561,-27 C 56.561,-6.485 47.25,1.89 27.547,1.89 C 7.016,1.89 2.032,-11.203 2.032,-26.328 L 2.032,-30.515 L 19.843,-30.515 L 19.843,-27.547 C 19.843,-17.282 21.468,-12.423 28.483,-12.423 C 35.498,-12.423 37.123,-17.282 37.123,-27.547 L 37.123,-96.39 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="220.0 126.0" to="220.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id05eb0f452610c832a679fbc5"
+                      d="M 4.718,-48.187 C 4.718,-77.483 8.374,-98.278 37.53,-98.278 C 66.686,-98.278 70.326,-77.483 70.326,-48.187 C 70.326,-18.906 66.686,1.89 37.53,1.89 C 8.374,1.89 4.718,-18.906 4.718,-48.187 L 4.718,-48.187 M 24.17,-48.187 C 24.17,-22.281 26.06,-12.422 37.527,-12.422 C 48.995,-12.422 50.885,-22.281 50.885,-48.187 C 50.885,-73.983 48.995,-83.966 37.527,-83.966 C 26.059,-83.966 24.169,-73.983 24.169,-48.187 L 24.169,-48.187 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="145.0 126.0" to="145.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id5d371dcd5be22b81e39f7ffa"
+                      d="M 26.187,-82.078 L 26.187,-54.267 L 34.295,-54.267 C 43.606,-54.267 48.871,-58.312 48.871,-68.716 C 48.871,-77.622 44.137,-82.075 35.372,-82.075 L 26.186,-82.075 M 6.749,0.003 L 6.749,-96.387 L 42.654,-96.387 C 58.59,-96.387 68.307,-88.012 68.307,-71.544 C 68.307,-58.716 63.182,-50.076 52.246,-47.796 L 52.246,-47.516 C 65.463,-45.766 67.494,-38.471 67.759,-18.096 C 67.899,-7.971 68.43,-2.706 72.086,-0.816 L 72.086,-0.004 L 51.025,-0.004 C 49.135,-2.707 48.73,-6.347 48.59,-10.127 L 48.06,-28.627 C 47.795,-36.188 44.42,-40.766 36.579,-40.766 L 26.189,-40.766 L 26.189,-0.001 L 6.752,-0.001 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="70.0 126.0" to="70.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id9883091563ee1c65464e6b30"
+                      d="M 6.75,0 L 6.75,-96.39 L 40.765,-96.39 C 60.483,-96.39 67.233,-81.937 67.233,-67.502 C 67.233,-47.518 54.937,-38.472 36.578,-38.472 L 26.188,-38.472 L 26.188,-0.004 L 6.751,-0.004 M 26.188,-82.082 L 26.188,-52.786 L 34.828,-52.786 C 42.531,-52.786 47.796,-57.377 47.796,-67.234 C 47.796,-76.687 44.016,-82.077 34.3,-82.077 L 26.191,-82.077 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="0.0 126.0" to="0.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+            </g>
+            <g id="id14515d260fea08635f706402" visibility="hidden">
+                <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-211.714 -72.091" to="-211.714 -72.091"
+                                  calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="rotate" additive="sum" begin="0s; loop.end" dur="4s"
+                                  repeatCount="1" fill="none" from="0.0 0.0 0.0" to="0.0 0.0 0.0" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="scale" additive="sum" begin="0s; loop.end" dur="4s"
+                                  repeatCount="1" fill="none" from="0.9763486539127507 0.9763486539127507"
+                                  to="0.9763486539127507 0.9763486539127507" calcMode="discrete"/>
+                <animate attributeType="CSS" attributeName="fill" begin="0s; loop.end" dur="4s" repeatCount="1"
+                         fill="none" from="#ffffff" to="#ffffff" calcMode="discrete"/>
+                <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                  dur="4s" repeatCount="1" fill="none" from="-66.5738 -26.5" to="-66.5738 -26.5"
+                                  calcMode="discrete"/>
+                <path id="id9ced64e110fd6141b4b71e88"
+                      d="M 22.546,0 L 22.546,-37.937 L -2.032,-96.39 L 25.514,-96.39 L 34.967,-62.781 L 35.232,-62.781 L 44.685,-96.39 L 72.216,-96.39 L 47.655,-37.937 L 47.655,0 L 22.546,0 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="501.908 126.195" to="501.908 126.195"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id09ead1b306601a4746cb8c6c"
+                      d="M 18.625,0 L 18.625,-75.062 L -0.265,-75.062 L -0.265,-96.39 L 62.641,-96.39 L 62.641,-75.062 L 43.735,-75.062 L 43.735,0 L 18.626,0 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="433.812 126.195" to="433.812 126.195"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="idf57cf55da58cdaf7b13e24e8" d="M 5,0 L 5,-96.39 L 30.109,-96.39 L 30.109,0 L 5,0 Z"
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="397.0 126.0" to="397.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id6dc1e7a0e8826736b7ac308e"
+                      d="M 5.937,0 L 5.937,-96.39 L 45.218,-96.39 C 64.389,-96.39 71.685,-85.594 71.685,-70.736 C 71.685,-57.925 66.685,-49.55 55.217,-47.8 L 55.217,-47.52 C 67.357,-46.442 71.013,-38.756 71.013,-25.928 L 71.013,-17.695 C 71.013,-12.695 71.013,-6.211 72.216,-4.322 C 72.902,-3.244 73.433,-2.166 75.058,-1.354 L 75.058,-0.011 L 48.324,-0.011 C 45.904,-5.136 45.904,-14.323 45.904,-18.368 L 45.904,-24.851 C 45.904,-35.787 43.734,-38.615 37.673,-38.615 L 31.048,-38.615 L 31.048,-0.006 L 5.939,-0.006 M 31.048,-78.302 L 31.048,-55.631 L 36.048,-55.631 C 43.203,-55.631 46.578,-60.209 46.578,-67.098 C 46.578,-74.926 43.469,-78.301 35.908,-78.301 L 31.049,-78.301 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="319.0 126.0" to="319.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="id789ece025fcdcc73e76db181"
+                      d="M 38.343,-35.375 L 38.343,-52.375 L 70.733,-52.375 L 70.733,0 L 53.733,0 L 53.188,-8.5 L 52.923,-8.5 C 49.548,-0.266 40.643,1.89 32.128,1.89 C 6.613,1.89 4.318,-16.328 4.318,-48.187 C 4.318,-80.452 10.536,-98.28 40.238,-98.28 C 58.049,-98.28 70.734,-89.235 70.734,-65.877 L 46.438,-65.877 C 46.438,-70.735 46.033,-74.516 45.097,-77.077 C 44.144,-79.78 42.254,-81.263 39.286,-81.263 C 31.052,-81.263 30.24,-74.248 30.24,-48.187 C 30.24,-22.141 31.052,-15.126 38.755,-15.126 C 44.02,-15.126 47.111,-18.501 47.251,-35.376 L 38.346,-35.376 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="245.0 126.0" to="245.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="iddc63885813439b6f2730fc79"
+                      d="M 5.937,0 L 5.937,-96.39 L 63.046,-96.39 L 63.046,-75.875 L 31.046,-75.875 L 31.046,-59.407 L 61.013,-59.407 L 61.013,-39.689 L 31.045,-39.689 L 31.045,-20.518 L 64.263,-20.518 L 64.263,-0.003 L 5.935,-0.003 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="178.0 126.0" to="178.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="idc138fe5f9da07e85de519447"
+                      d="M 18.625,0 L 18.625,-75.062 L -0.265,-75.062 L -0.265,-96.39 L 62.641,-96.39 L 62.641,-75.062 L 43.735,-75.062 L 43.735,0 L 18.626,0 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="115.0 126.0" to="115.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="idd820e8e4077321c62c68db96"
+                      d="M 5.937,0 L 5.937,-96.39 L 34.015,-96.39 L 50.218,-36.984 L 50.483,-36.984 L 50.483,-96.39 L 73.983,-96.39 L 73.983,0 L 46.437,0 L 29.703,-59.531 L 29.438,-59.531 L 29.438,0 L 5.938,0 "
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="35.0 126.0" to="35.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+                <path id="idd563b25521d1dd2b9a0f0900" d="M 5,0 L 5,-96.39 L 30.109,-96.39 L 30.109,0 L 5,0 Z"
+                      style="fill: #ffffff; fill-opacity: 1.0; stroke: none" visibility="hidden">
+                    <set attributeName="visibility" attributeType="CSS" to="visible" begin="0s; loop.end" fill="none"/>
+                    <animateTransform attributeName="transform" type="translate" additive="replace" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="0.0 126.0" to="0.0 126.0"
+                                      calcMode="discrete"/>
+                    <animateTransform attributeName="transform" type="translate" additive="sum" begin="0s; loop.end"
+                                      dur="4s" repeatCount="1" fill="none" from="-0.0 -0.0" to="-0.0 -0.0"
+                                      calcMode="discrete"/>
+                </path>
+            </g>
+        </g>
+    </g>
+    <script><![CDATA[
+      var document = null;
+      var root = null;
+      var scheduler = null;
+      var schedulerEnabled = ((navigator.userAgent.indexOf('Safari') != -1) && (navigator.userAgent.indexOf('Chrome') == -1)) ||
+                             (navigator.userAgent.match(/(iPod|iPhone|iPad)/) && navigator.userAgent.match(/AppleWebKit/) && !navigator.userAgent.match('CriOS'));
+      var currentEvent = 0;
+      var previousTime = 0;
+      var nextTime = 0;
+
+      function initialize(event)
+      {
+         document = event.target.ownerDocument;
+         root = document.documentElement;
+         if (schedulerEnabled && events.length > 0) {
+             var event = events[currentEvent];
+             while (currentEvent < events.length && events[currentEvent]["time"] == 0) {
+                 processEvent();
+                 currentEvent += 1;
+             }
+             if (currentEvent < events.length) {
+                 var time = events[currentEvent]["time"];
+                 nextTime = time;
+                 scheduler = setTimeout(processSchedule, time - previousTime);
+             }
+         }
+      };
+
+      function freeze()
+      {
+         root.pauseAnimations();
+      };
+
+      function processSchedule()
+      {
+         if (currentEvent < events.length) {
+             var event = events[currentEvent];
+             previousTime = nextTime;
+             while (currentEvent < events.length && events[currentEvent]["time"] == nextTime) {
+                 processEvent();
+                 currentEvent += 1;
+             }
+             if (currentEvent < events.length) {
+                 var time = events[currentEvent]["time"];
+                 nextTime = time;
+                 scheduler = setTimeout(processSchedule, time - previousTime);
+             }
+         }
+      };
+
+      function processEvent()
+      {
+         var event = events[currentEvent];
+         if ("audio_start" in event) {
+             event = event["audio_start"];
+             var id = event["id"];
+             var audio = document.getElementById(id);
+             if (audio != undefined)
+                 audio.play();
+         }
+         else if ("audio_stop" in event) {
+             event = event["audio_stop"];
+             var id = event["id"];
+             var audio = document.getElementById(id);
+             if (audio != undefined) {
+                 audio.pause();
+                 audio.currentTime = 0;
+             }
+         }
+         else if ("pause" in event) {
+             event = event["pause"];
+             freeze();
+         }
+      };
+
+    var events = [{"time": 3650,"pause": {}}]
+]]></script>
+    <rect id="looper" x="0" y="0" width="1" height="1" style="fill: none; stroke: none">
+        <set id="loop" attributeName="x" to="0" begin="0s; loop.end" dur="4s" fill="freeze"/>
+    </rect>
+</svg>

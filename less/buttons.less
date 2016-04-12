@@ -1,0 +1,38 @@
+button {
+  background-color: transparent;
+}
+.btn {
+  background-color: transparent;
+  padding: 0;
+  &:focus, &:hover {
+    -webkit-transition: width 0.5s;
+    outline: 0!important;
+  }
+}
+
+.btn-default {
+  -webkit-transition: width 1s;
+  border: 1px solid #000000;
+  border-radius: 0;
+  color: #000000;
+  display: block;
+  line-height: 3em;
+  font-weight: 600;
+  margin: 30px auto 0 auto;
+  position: relative;
+  text-transform: uppercase;
+  transition: width 1s;
+  width: 140px;
+  z-index: 111;outline: none;
+  &:hover {
+    -webkit-transition: width 0.5s;
+    color: #000000;
+    background-color: transparent;
+    text-decoration: none;
+    transition: width 0.5s;
+    width: 180px;
+  }
+  &:focus, &:active, &:active:hover {
+    background-color: white!important;
+  }
+}

@@ -1,0 +1,107 @@
+.quote-block {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  .quote {
+    color: rgba(0, 0, 0, .1);
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .top-speech-bubble {
+    margin-bottom: -20px;
+  }
+  .bottom-speech-bubble {
+    margin-top: -20px;
+    img {
+      width: 30px;
+    }
+  }
+  .carousel-inner {
+    min-height: 300px;
+    .item {
+      blockquote {
+        text-transform: uppercase;
+        border-left: none;
+        margin: 0;
+        small {
+          color: @font-white;
+        }
+        p {
+          font-weight: 900;
+          color: @font-white;
+          font-size: 40px;
+          line-height: 35px;
+          &:before {
+            content: "\f10d";
+            font-family: 'Fontawesome';
+            margin-right: 10px;
+            font-size: 20px;
+            vertical-align: top;
+          }
+          &:after {
+            content: "\f10e";
+            font-family: 'Fontawesome';
+            margin-left: 10px;
+            font-size: 20px;
+            vertical-align: top;
+          }
+          @media (max-width: 768px) {
+            font-size: 23px;
+            line-height: 25px;
+          }
+        }
+      }
+    }
+  }
+  .quote-carousel {
+    padding: 0 10px 30px 10px;
+    margin-top: 30px;
+    /* Control buttons  */
+    /* Previous button  */
+    /* Next button  */
+    /* Changes the position of the indicators */
+    /* Changes the color of the indicators */
+    .carousel-control {
+      background: none;
+      color: @color-gold;
+      font-size: 2.3em;
+      text-shadow: none;
+      margin-top: 30px;
+      text-align: inherit;
+      width: auto;
+      .left {
+        text-align: left;
+      }
+      .right {
+        text-align: right;
+      }
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+    .carousel-indicators {
+      li {
+        margin-left: 10px;
+        margin-right: 10px;
+        border: 1px solid @color-gold;
+        -webkit-transition: background 0.3s;
+        -moz-transition: background 0.3s;
+        -ms-transition: background 0.3s;
+        -o-transition: background 0.3s;
+        transition: background 0.3s;
+        &:hover {
+          background: @color-gold;
+          -webkit-transition: background 0.5s;
+          -moz-transition: background 0.5s;
+          -ms-transition: background 0.5s;
+          -o-transition: background 0.5s;
+          transition: background 0.5s;
+        }
+      }
+      .active {
+        width: 10px;
+        height: 10px;
+        background: @color-gold;
+      }
+    }
+  }
+}

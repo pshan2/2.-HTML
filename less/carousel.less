@@ -1,0 +1,48 @@
+/* Carousel base class */
+.carousel {
+  height: auto;
+  .item {
+    background: none;
+  }
+  .carousel-indicators {
+    li {
+      border: 1px solid @font-main-nav-color;
+      -webkit-transition: background 0.3s;
+      -moz-transition: background 0.3s;
+      -ms-transition: background 0.3s;
+      -o-transition: background 0.3s;
+      transition: background 0.3s;
+      &:hover {
+        background: @font-main-nav-color;
+        -webkit-transition: background 0.5s;
+        -moz-transition: background 0.5s;
+        -ms-transition: background 0.5s;
+        -o-transition: background 0.5s;
+        transition: background 0.5s;
+      }
+    }
+    .active {
+      margin: 1px;
+      width: 10px;
+      height: 10px;
+      background: @font-main-nav-color;
+    }
+
+  }
+}
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+  top: 150px;
+}
+
+.carousel-inner {
+  > .item {
+    > img {
+      height: auto;
+      width: 100%;
+    }
+  }
+}
+

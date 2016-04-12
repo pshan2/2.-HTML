@@ -1,0 +1,33 @@
+aside {
+  .sidebar-module {
+    text-align: right;
+    border-right: 4px solid @color-yellow;
+    padding-right: 25px;
+    @media only screen and (max-width: 768px) {
+      text-align: center;
+      margin-top: 50px;
+    }
+  }
+  li {
+    margin-bottom: 10px;
+    a {
+      color: @font-grey;
+      //line-height: 30px;
+      font-size: 16px;
+      &:hover, &:focus {
+        text-decoration: none;
+        font-weight: bold;
+      }
+      @media only screen and (max-width: 768px) {
+        font-size: 20px;
+        line-height: 40px;
+      }
+    }
+  }
+  .sub-active {
+    a {
+      font-weight: bold;
+      color: @font-dark-blue;
+    }
+  }
+}

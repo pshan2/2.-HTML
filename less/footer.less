@@ -1,0 +1,104 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * *
+ *  FOOTER SECTION
+ * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+footer {
+  background-color: @bg-blue-green;
+  background-image: url("../images/footer-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  clear: both;
+  @media (max-width: 768px) {
+    background-position: 50% 80%;
+  }
+  .nav-social-container {
+    margin-top: 30px;
+    overflow: hidden;
+  }
+  .social-icons {
+    li {
+      a {
+        color: @font-integrity-blue;
+        &:hover {
+          color: @font-dark-blue;
+        }
+
+      }
+      @media (max-width: 768px) {
+        margin: 40px 10px 0 10px;
+      }
+    }
+    @media (max-width: 768px) {
+      text-align: center;
+    }
+  }
+  .nav-pills {
+    > li {
+      + li {
+      }
+      > a {
+        padding-right: 40px;
+        padding-left: 0;
+        font-size: 14px;
+        font-weight: normal;
+        font-family: @font-regular;
+        text-transform: uppercase;
+        color: @font-nav-color;
+        @media (max-width: 768px) {
+          font-size: 18px;
+          padding-right: 0;
+        }
+      }
+      > a:hover, a:focus {
+        color: @font-integrity-blue;
+        background-color: transparent;
+      }
+      @media (max-width: 768px) {
+        display: block;
+        float: none;
+        vertical-align: top;
+        text-align: center;
+      }
+    }
+    .active {
+      > a, > a:hover, > a:focus {
+        color: @font-integrity-blue;
+      }
+    }
+  }
+  .logo-band {
+    overflow: hidden;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    .footer-logo, .footer-flame, .footer-emory-logo {
+      @media only screen and (max-width: 768px) {
+        text-align: center !important;
+        padding-top: 30px;
+        padding-bottom: 30px;
+      }
+      img {
+        vertical-align: middle;
+        display: inline-block;
+      }
+    }
+    .footer-emory-logo {
+      text-align: right;
+      img {
+        height: 82px;
+        width: 150px;
+      }
+    }
+    .footer-logo {
+      text-align: left;
+      img {
+        height: 53px;
+        width: 150px;
+      }
+    }
+  }
+  .footer-flame {
+    text-align: center;
+  }
+}
